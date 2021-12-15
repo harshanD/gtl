@@ -1,6 +1,6 @@
-Plz run following code in CLI
+## Plz run following code in CLI
 
-composer update
-npm install
-php artisan migrate:fresh --seed
-php artisan serve
+## composer update
+## npm install
+## php artisan migrate:fresh --seed
+## php artisan serve
